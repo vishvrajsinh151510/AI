@@ -1,0 +1,2 @@
+# AI
+exercise of ai 
