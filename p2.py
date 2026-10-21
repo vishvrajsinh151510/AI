@@ -1,3 +1,6 @@
+#Name: Vishvrajsinh zala
+#Eno : 92600584082
+#2. Implement Breadth First Search (for Water Jug problem)
 
 CAP_A = 4
 CAP_B = 3
