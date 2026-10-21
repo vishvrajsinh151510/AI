@@ -1,3 +1,6 @@
+#Name: Vishvrajsinh zala
+#Eno : 92600584082
+#7. Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).
 
 def display(board):
     print()
