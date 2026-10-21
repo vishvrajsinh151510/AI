@@ -1,3 +1,7 @@
+#Name: Vishvrajsinh zala
+#Eno : 92600584082
+# Implement Depth First Search (for 8 puzzle problem).
+
 # Goal state 
 goal = (1, 2, 3, 
         4, 5, 6,
