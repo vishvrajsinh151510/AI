@@ -1,3 +1,6 @@
+#Name: Vishvrajsinh zala
+#Eno : 92600584082
+#1. Implement Breadth First Search (for 8 puzzle problem)
 
 # Goal state
 goal = (1, 2, 3,
